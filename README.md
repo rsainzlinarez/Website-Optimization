@@ -13,3 +13,6 @@ To make the page more intuitive and ready for the client the steps I took includ
 5. Making sure the code is working properly
 6. Making sure it's uploaded to github
 7. Launching it to the web
+
+Improvements List
+1. Updated website title to website name.
