@@ -33,11 +33,11 @@ body {
     font-size: 20px;
 }
 
-.header ul {
+.mainMenu ul {
     list-style-type: none;
 }
 
-#navigation-bar ul li {
+#navigationVar ul li {
     display: inline-block;
     margin-left: 25px;
 }
