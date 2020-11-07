@@ -15,16 +15,17 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+.mainMenu h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+.mainMenu h1 .seo {
     color: #d9dcd6;
 }
-
-.header div {
+/* changed class to main menu */
+/* changed div to nav */
+.mainMenu nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
