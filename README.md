@@ -1,6 +1,6 @@
 # Marketing Website-Optimization
 
-This README file descibres the process and specifications used to optimze Horiseon's website. Some of the updates include improvement on the structure of the code, usbaility, and implementation of attributes to make it more intuitive. 
+This README file descibres the process and specifications used to optimze Horiseon's website. Some of the updates include improvements on the structure of the code, usbaility, and implementation of attributes to make it more intuitive. 
 
 ![Website Screenshoot](https://user-images.githubusercontent.com/71811501/98455991-9e1e5e00-212c-11eb-9eeb-e3fc05a4ebeb.PNG)
 
@@ -16,19 +16,20 @@ To make the page more intuitive and ready for the client the steps I took includ
 ## Improvements List in HTML
 
 In order for the HTML elementes to follow a more consistent structure, the following updates were implemented.
-1. Updated website title to website name.
+1. Updated website title to website name
 2. Updated  from div to header tag
 3. Updated div tag to figure tag 
 4. Updated  div tag to section tag
 5. Updated  div tags to article  tags
 6. Updated  div tag to aside tag
-8. Updated  div tag to footer tag
+7. Updated  div tag to footer tag
  
  Made it more accessicble by:
- 7. Adding alt attributes to images
+ 8. Adding alt attributes to images
 
  ## Improvements List in CSS
- To have make the CSS code easier to reado the following updated were implemented.
+ 
+ To make the CSS code easier to reado the following updates were implemented:
  1. Selector was updated from div to mainMenu  
  2. Selector div was updated to nav 
  3. Selector div was updated to navigationBar 
