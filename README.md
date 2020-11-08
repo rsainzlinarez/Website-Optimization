@@ -36,3 +36,5 @@ In order for the HTML elementes to follow a more consistent structure, the follo
  5. Selectors with the same declarations were consolidated  
  6. Quotations were added to "Calibri" value under font-family 
  7. Selector div was updated to footer for the following two rule-sets
+
+ Link to Website: https://rsainzlinarez.github.io/Website-Optimization/
