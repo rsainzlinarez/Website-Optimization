@@ -13,8 +13,18 @@ To make the page more intuitive and ready for the client the steps I took includ
 3. Fixing code that it's not working
 4. Making the page intuitive
 5. Making sure the code is working properly
-6. Making sure it's uploaded to github
-7. Launching it to the web
 
-Improvements List
-1. Updated website title to website name.
+
+## Improvements List in HTML
+
+Added Semntic Elements by:
+1. Updating website title to website name.
+2. Updating from div to header tag
+3. Updating div tag to figure tag 
+4. Updating div tag to section tag
+5. Updating div tags to article  tags
+6. Updating div tag to aside tag
+8. Updating div tag to footer tag
+ 
+ Made it more accessicble by:
+ 7. Adding alt attributes to images
