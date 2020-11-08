@@ -1,7 +1,5 @@
 # Marketing Website-Optimization
 
-Provide automatization to site and make it more intuitive
-
 This README file descibres the process and specifications used to optimze Horiseon's website. Some of the updates include improvement on the structure of the code, usbaility, and implementation of attributes to make it more intuitive. 
 
 ![Website Screenshoot](https://user-images.githubusercontent.com/71811501/98455991-9e1e5e00-212c-11eb-9eeb-e3fc05a4ebeb.PNG)
