@@ -4,7 +4,7 @@ Provide automatization to site and make it more intuitive
 
 A readme file that descibres the process and specifications used to optimze Horiseon's website to make it more intuitive. 
 
-![Website Screenshot]https://github.com/rsainzlinarez/Website-Optimization/blob/main/Website%20Screenshoot.PNG?raw=true
+![Picture]https://github.com/rsainzlinarez/Website-Optimization/blob/main/Website%20Screenshoot.PNG?raw=true
 
 ## Steps to Follow
 To make the page more intuitive and ready for the client the steps I took include:
